@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * This is the entry point for the program which encompasses all classes within slideMaker.
- * @author Corbin K. Zahrt
+ * @author CSupertramp
  *
  */
 public class CardMakerMain {
